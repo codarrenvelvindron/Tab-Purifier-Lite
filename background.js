@@ -1,6 +1,7 @@
 // Copyright (c) 2017 Codarren Velvindron @ hackers.mu
 // Tab Purifier Version 1.73
 // The purpose of Tab Purifier Lite is to close all porn tabs using only 1 button!
+// MIT License
 
 function detectTab(){
     chrome.tabs.query({
@@ -11,8 +12,8 @@ function detectTab(){
                 var tab = array_of_Tabs[i].id;
                 var title = array_of_Tabs[i].title;
 
-//Create a blacklist containing words common to bad sites
-                var blacklist = ["Porn", "porn", "Porn,", "Tube", "Tubes", "Adult", "adult", "sex", "Sex", "sexy", "Sexy", "Amateur", "amateur", "Lingerie", "lingerie", "cam", "Cam", "tube", "tubes","Girl", "Girls", "webcam", "Webcam", "Webcams", "Flirt", "flirt", "Hot", "hot", "Chat", "chat", "Jasmin", "free", "Boobs", "boobs", "tits", "panty", "panties", "Sexy", "sexiest", "Sexiest", "beeg.","Nude", "nude", "nudes", "Nudes", "XXX", "Pics", "Fling", "18?", "Ass", "ass", "boobies", "Archive", "Femdom", "femdom", "BDSM", "SKINN","Naked", "naked", "Babes", "Babe", "babe", "NSFW", "nsfw", "Teen", "teen", "StreamPorno", "Milf", "milf", "LegalPorno", "HD", "Porno", "Sesso", "Playboy", "erotic", "erotica.", "Pornstar", "Sensations", "sensation","Sensation","Desire","Tolerance", "PornMastermind.com", "Models", "Model", "model", "MyFreeCams", "Skeet", "NWSGifs", "Thenewporn", "Updatetube", "Wank", "wank", "Female", "female", "fapdu", "ElephantTube", "Clips", "Private", "Anal", "Fetish", "free-porn-sites", "free-porn-site", "fake", "Fake", "Fappyness"];
+//Create a blacklist of words common to bad sites
+                var blacklist = ["Porn", "porn", "Porn,", "PORN", "Tube", "Tubes", "Adult", "adult", "sex", "Sex", "sexy", "Sexy", "Amateur", "amateur", "Lingerie", "lingerie", "cam", "Cam", "tube", "tubes","Girl", "Girls", "webcam", "Webcam", "Webcams", "Flirt", "flirt", "Hot", "hot", "Chat", "chat", "Jasmin", "free", "Boobs", "boobs", "tits", "panty", "panties", "Sexy", "sexiest", "Sexiest", "beeg.","Nude", "nude", "nudes", "Nudes", "XXX", "Pics", "Fling", "18?", "Ass", "ass", "boobies", "Archive", "Femdom", "femdom", "BDSM", "SKINN","Naked", "naked", "Babes", "Babe", "babe", "NSFW", "nsfw", "Teen", "teen", "StreamPorno", "Milf", "milf", "LegalPorno", "HD", "Porno", "Sesso", "Playboy", "erotic", "erotica.", "Pornstar", "Sensations", "sensation","Sensation","Desire","Tolerance", "PornMastermind.com", "Models", "Model", "model", "MyFreeCams", "Skeet", "NWSGifs", "Thenewporn", "Updatetube", "Wank", "wank", "Female", "female", "fapdu", "ElephantTube", "Clips", "Private", "Anal", "Fetish", "free-porn-sites", "free-porn-site", "fake", "Fake", "Fappyness", "free-porn-websites", "TotalPorn"];
                 var words = title.split(" ");
                 var detectBad = words.filter (function(a) {
             return blacklist.indexOf(a) != -1;
