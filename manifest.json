@@ -1,0 +1,17 @@
+{
+  "name": "Tab Purifier Lite",
+  "version": "1.73",
+  "description": "Tab Purifier Lite closes all pron tabs instantly when clicked",
+  "permissions": [
+    "tabs"
+  ],
+  "author": "Codarren Velvindron",
+  "background": { "scripts": ["background.js"] },
+  "browser_action": {
+      "default_title": "Purify!",
+      "default_icon": {"16": "icon4_tpl.png",
+                       "48": "icon4_tpl_48.png",
+                      "128": "icon4_tpl_128.png" }
+  },
+  "manifest_version": 2
+}
