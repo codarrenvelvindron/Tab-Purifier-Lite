@@ -1,11 +1,15 @@
 {
   "appName": {
-    "message": "Purifier!",
-    "description": "Tab Purifier Lite"
+    "message": "Tab Purifier Lite",
+    "description": "Tab Purifier Lite titre"
   },
   "appDesc": {
-    "message": "Cet extension ferme tous les tabs ou fenêtres ayant du contenu mature", 
-    "description":"Ferme tous les tabs p0rnos en un clic !"
+    "message": "Cet extension ferme tous les onglets ou fenêtres ayant du contenu mature", 
+    "description":"Description sur le magasin"
+  },
+  "appAction": {
+    "message": "Purifier!", 
+    "description":"popup hover"
   }
 }
 
