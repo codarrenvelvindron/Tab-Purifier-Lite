@@ -1,7 +1,8 @@
 {
   "name": "Tab Purifier Lite",
-  "version": "1.73",
+  "version": "1.74",
   "description": "Tab Purifier Lite closes all pron tabs instantly when clicked",
+  "default_locale": "en",
   "permissions": [
     "tabs"
   ],
