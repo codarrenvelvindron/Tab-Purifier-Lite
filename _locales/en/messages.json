@@ -1,11 +1,11 @@
 {
   "appName": {
     "message": "Tab Purifier Lite",
-    "description": "Tab Purifier Lite"
+    "description": "application title"
   },
   "appDesc": {
     "message": "This app closes your pron tabs all at once!", 
-    "description":"One click to close pron tabs all at once !"
+    "description":"Description in chrome store"
   },
   "appAction": {
     "message": "Purify!", 
