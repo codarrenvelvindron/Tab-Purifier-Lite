@@ -7,6 +7,9 @@ Please feel free to report any bugs you may find as an issue or via Git Reports.
 Official Website: http://tabpurifier.com/lite/tab-purifier-lite/
 
 ## Changelog
+### 1.80 release - Banlist - 22/04/2017
+* Major addition to banlist
+
 ### 1.77 release - Bugfix - 21/04/2017
 * Fix Language bugs FR
 * Added FR keywords
