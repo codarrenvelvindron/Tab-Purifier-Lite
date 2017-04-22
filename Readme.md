@@ -7,6 +7,9 @@ Please feel free to report any bugs you may find as an issue or via Git Reports.
 Official Website: http://tabpurifier.com/lite/tab-purifier-lite/
 
 ## Changelog
+### 1.85 release - Language - 22/04/2017
+* Added basic Russian (RU) support
+
 ### 1.80 release - Banlist - 22/04/2017
 * Major addition to banlist
 
