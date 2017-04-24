@@ -1,5 +1,5 @@
 // Copyright (c) 2017 Codarren Velvindron @ hackers.mu
-// Tab Purifier Version 1.90
+// Tab Purifier Version 2.0
 // The purpose of Tab Purifier Lite is to close all porn tabs using only 1 button!
 // MIT License
 
