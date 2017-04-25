@@ -7,6 +7,9 @@ Please feel free to report any bugs you may find as an issue or via Git Reports.
 Official Website: http://tabpurifier.com/lite/tab-purifier-lite/
 
 ## Changelog
+### 2.1.0 release - Added hotkey to activate Tab Purifier
+* Press Ctrl+Q to Quick kill all tabs
+
 ### 2.0.1 release - Added Mozila Firefox Compatibility
 * Works on Firefox/Fennec now !
 
