@@ -1,6 +1,6 @@
 {
   "name": "__MSG_appName__",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "__MSG_appDesc__",
   "default_locale": "en",
   "short_name": "pron tab purifier lite",
@@ -12,7 +12,7 @@
   },
   "commands": {
   "quickkill": {
-  "suggested_key": { "default": "Ctrl+Q" },
+  "suggested_key": { "default": "Alt+Q" },
   "description": "Quick close all"
     }
   },
