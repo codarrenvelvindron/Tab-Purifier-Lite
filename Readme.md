@@ -7,6 +7,11 @@ Please feel free to report any bugs you may find as an issue or via Git Reports.
 Official Website: http://tabpurifier.com/lite/tab-purifier-lite/
 
 ## Changelog
+### 2.1.1 release - Changed hotkey to activate Tab Purifier
+* NEW: Alt+Q to Quick kill all tabs (thanks- MaskyS for suggestion)
+* Alt+Q is universal and unused by most browsers
+* Added EN keywords to blacklist (thanks- MaskyS for suggestion)
+
 ### 2.1.0 release - Added hotkey to activate Tab Purifier
 * Press Ctrl+Q to Quick kill all tabs
 
@@ -19,7 +24,7 @@ Official Website: http://tabpurifier.com/lite/tab-purifier-lite/
 * Fix a bug of logo not appearing on extensions page
 
 ### 1.85 release - Language - 22/04/2017
-* Added basic Russian (RU) support (thanks to Lorina for the suggestion)
+* Added basic Russian (RU) support (thanks to Lorix for the suggestion)
 
 ### 1.80 release - Banlist - 22/04/2017
 * Major addition to banlist
