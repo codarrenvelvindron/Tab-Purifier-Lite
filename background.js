@@ -27,4 +27,7 @@ function detectTab(){
 };
 
 chrome.browserAction.onClicked.addListener(detectTab);
-
+chrome.commands.onCommand.addListener(function(command) {
+  if (command == "quickkill") {
+	  detectTab();
+}});
