@@ -10,6 +10,12 @@
       "default_title": "__MSG_appAction__",
       "default_icon": "icon16.png"
   },
+  "commands": {
+  "quickkill": {
+  "suggested_key": { "default": "Ctrl+Q" },
+  "description": "Quick close all"
+    }
+  },
   "icons": {
     "16": "icon16.png",
     "48": "icon48.png",
