@@ -7,6 +7,10 @@ Please feel free to report any bugs you may find as an issue or via Git Reports.
 Official Website: http://tabpurifier.com/lite/tab-purifier-lite/
 
 ## Changelog
+### 2.1.5 release - Changed hotkey to activate Tab Purifier
+* Improved performance
+* Added compatibility for Opera Web Browser
+
 ### 2.1.1 release - Changed hotkey to activate Tab Purifier
 * NEW: Alt+Q to Quick kill all tabs (thanks- MaskyS for suggestion)
 * Alt+Q is universal and unused by most browsers
