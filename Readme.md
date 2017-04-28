@@ -7,6 +7,9 @@ Please feel free to report any bugs you may find as an issue or via Git Reports.
 Official Website: http://tabpurifier.com/lite/tab-purifier-lite/
 
 ## Changelog
+### 2.1.6 release - added keywords to banlist
+* Minor addition
+
 ### 2.1.5 release - Performance and compatibility
 * Improved performance
 * Added compatibility for Opera Web Browser
