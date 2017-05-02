@@ -1,0 +1,15 @@
+{
+  "appName": {
+    "message": "Tab Purifier Lite",
+    "description": "application title"
+  },
+  "appDesc": {
+    "message": "Este aplicativo fecha todos os seus pornô em um clique!", 
+    "description":"Description in chrome store"
+  },
+  "appAction": {
+    "message": "Purificar!", 
+    "description":"tooltip"
+  }
+}
+

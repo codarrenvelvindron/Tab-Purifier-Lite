@@ -1,6 +1,6 @@
 {
   "name": "__MSG_appName__",
-  "version": "2.1.6",
+  "version": "2.2.0",
   "description": "__MSG_appDesc__",
   "default_locale": "en",
   "short_name": "pron tab purifier lite",
