@@ -7,6 +7,10 @@ Please feel free to report any bugs you may find as an issue or via Git Reports.
 Official Website: http://tabpurifier.com/lite/tab-purifier-lite/
 
 ## Changelog
+### 2.2.0 release - Language - Portuguese (BR) added
+* Added support for Portuguese (Brazil)
+* Added Keywords to Banlist
+
 ### 2.1.7 release - added keywords to banlist
 * Added keywords to banlist
 
