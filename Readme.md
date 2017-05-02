@@ -1,12 +1,15 @@
 # Tab Purifier Lite
 
-A simple and effective Google Chrome Extension, designed to close all pr0n tabs in one click!
+A simple and effective Google Chrome Extension, designed to close all porn tabs in one click!
 
 Please feel free to report any bugs you may find as an issue or via Git Reports.
 
 Official Website: http://tabpurifier.com/lite/tab-purifier-lite/
 
 ## Changelog
+### 2.1.7 release - added keywords to banlist
+* Added keywords to banlist
+
 ### 2.1.6 release - added keywords to banlist
 * Minor addition
 
