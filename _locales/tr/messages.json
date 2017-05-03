@@ -1,0 +1,15 @@
+{
+  "appName": {
+    "message": "Tab Purifier Lite",
+    "description": "Titre de l'application"
+  },
+  "appDesc": {
+    "message": "Tab Purifier porno içeriğe sahip tüm sekmeleri veya pencereleri kapatın", 
+    "description":"Description sur le magasin"
+  },
+  "appAction": {
+    "message": "Arınmak!", 
+    "description":"popup hover"
+  }
+}
+
