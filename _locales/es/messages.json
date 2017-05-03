@@ -1,0 +1,15 @@
+{
+  "appName": {
+    "message": "Tab Purifier Lite",
+    "description": "application title"
+  },
+  "appDesc": {
+    "message": "Esta aplicación cierra tus pestañas porno de una sola vez!", 
+    "description":"Description in chrome store"
+  },
+  "appAction": {
+    "message": "Purificar!", 
+    "description":"tooltip"
+  }
+}
+
