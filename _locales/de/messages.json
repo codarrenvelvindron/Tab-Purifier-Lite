@@ -1,0 +1,15 @@
+{
+  "appName": {
+    "message": "Tab Purifier Lite",
+    "description": "Titre de l'application"
+  },
+  "appDesc": {
+    "message": "Schließen Sie alle Fenster oder Tabs mit Tab Purifier pornografischen Inhalten", 
+    "description":"Description sur le magasin"
+  },
+  "appAction": {
+    "message": "Reinigen!", 
+    "description":"popup hover"
+  }
+}
+

@@ -1,0 +1,15 @@
+{
+  "appName": {
+    "message": "Tab Purifier Lite",
+    "description": "Application title"
+  },
+  "appDesc": {
+    "message": "Закройте все вкладки или окна с помощью содержимого для очистки вкладки Tab Purifier!", 
+    "description":"Description on store"
+  },
+  "appAction": {
+    "message": "очищаться!", 
+    "description":"popup hover"
+  }
+}
+
