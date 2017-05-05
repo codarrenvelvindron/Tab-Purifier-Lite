@@ -7,7 +7,7 @@ Please feel free to report any bugs you may find as an issue or via Git Reports.
 Official Website: http://tabpurifier.com/lite/tab-purifier-lite/
 
 ## Changelog
-### 2.5.2 release - Language - added
+### 2.5.1 release - Language - added
 * Added Support for Greek (EL)
 * Added EL Keywords to Banlist
 
