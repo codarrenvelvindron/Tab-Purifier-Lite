@@ -1,0 +1,15 @@
+{
+  "appName": {
+    "message": "Tab Purifier Lite",
+    "description": "application title"
+  },
+  "appDesc": {
+    "message": "Aftí i efarmogí kleínei óles tis protáseis sas taftóchrona", 
+    "description":"Description in chrome store"
+  },
+  "appAction": {
+    "message": "katharízo!", 
+    "description":"tooltip"
+  }
+}
+
