@@ -7,8 +7,12 @@ Please feel free to report any bugs you may find as an issue or via Git Reports.
 Official Website: http://tabpurifier.com/lite/tab-purifier-lite/
 
 ## Changelog
+### 2.6.0 release - Language Support
+* Added support for IT (Italian)
+* IT keywords added to ban list
+
 ### 2.5.4 release - EN keyword banlist
-* Added EN keywords to banlist
+* Minor fix-  EN keywords to banlist
 * Removed some redundant files
 
 ### 2.5.2 release - Important keywords added
