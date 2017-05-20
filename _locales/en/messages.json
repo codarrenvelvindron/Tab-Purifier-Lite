@@ -4,11 +4,11 @@
     "description": "application title"
   },
   "appDesc": {
-    "message": "Questa applicazione chiude tutte le tue schede pronte in una volta!", 
+    "message": "This app closes your pron tabs all at once!", 
     "description":"Description in chrome store"
   },
   "appAction": {
-    "message": "Purificare!", 
+    "message": "Purify!", 
     "description":"tooltip"
   }
 }

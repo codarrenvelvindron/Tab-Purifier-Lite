@@ -7,6 +7,9 @@ Please feel free to report any bugs you may find as an issue or via Git Reports.
 Official Website: http://tabpurifier.com/lite/tab-purifier-lite/
 
 ## Changelog
+### 2.7.0 release - New HighRes logo
+* Logo Redesign
+
 ### 2.6.0 release - Language Support
 * Added support for IT (Italian)
 * IT keywords added to ban list
