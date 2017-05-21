@@ -7,8 +7,9 @@ Please feel free to report any bugs you may find as an issue or via Git Reports.
 Official Website: http://tabpurifier.com/lite/tab-purifier-lite/
 
 ## Changelog
-### 2.7.1 release - Improved extesion logo
+### 2.7.1 release - Improved extension logo
 * Minor colour fix
+* Added 64x64 logo
 
 ### 2.7.0 release - New HighRes logo
 * Logo Redesign
